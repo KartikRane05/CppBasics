@@ -7,5 +7,6 @@
      - for decimal => float,double
      - for string  => string ,getline
      - for character => char
-     
+##### If-else
+     - Assignment
      
