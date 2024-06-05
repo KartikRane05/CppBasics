@@ -1,3 +1,0 @@
-Getting Started
-Sceleton :-
-    - iostream => for input and output
